@@ -36,7 +36,12 @@ img{
 #img2{
     padding-left: 290px;
 }
-
+#v1{
+    padding-left: 605px;
+    color: red;
+    font-size: xx-large;
+    font-weight: bold;
+}
 body{
     background-attachment: fixed;
     background-image: url(bg.jpg);
