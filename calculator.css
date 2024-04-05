@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: darkorange;
+}
+#calc{
+    border: 2px solid black;
+    background-color: rgb(171, 239, 26);
+    text-align: center;
+    width: 220px;
+    height: 280px;
+    text-transform: uppercase;
+    color:tomato;
+}
+#text{
+    margin-bottom: 6px;
+}
+button{
+    width: 35px;
+    height: 35px;
+    border: 1px solid tomato;
+    margin: 2px;
+    margin-top: 4px;
+    color: black;
+    background-color: yellow;
+}
